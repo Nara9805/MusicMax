@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "44B1966B-5D92-4184-A75D-1CE57D105643"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CE260FC-2F6C-4282-9C73-429D2D168A8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CE260FC-2F6C-4282-9C73-429D2D168A8C - e985f76c5d31cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "6CE260FC-2F6C-4282-9C73-429D2D168A8C - e985f76c5d31ce6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "1224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C6A8132-7228-4E7A-B3BB-5B899946D0BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C6A8132-7228-4E7A-B3BB-5B899946D0BF - e985f76c5d31cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "3C6A8132-7228-4E7A-B3BB-5B899946D0BF - e985f76c5d31ce6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "1224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80F99EF3-6B6C-41E2-855B-A28A93B82D55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80F99EF3-6B6C-41E2-855B-A28A93B82D55 - e985f76c5d31cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "80F99EF3-6B6C-41E2-855B-A28A93B82D55 - e985f76c5d31ce6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "1224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CDDDC1F-4AB5-4DF5-B8D1-45612F78F0FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CDDDC1F-4AB5-4DF5-B8D1-45612F78F0FA - e985f76c5d31cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "7CDDDC1F-4AB5-4DF5-B8D1-45612F78F0FA - e985f76c5d31ce6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "1224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00919138-37E0-40B7-9675-4F6EF1641DE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00919138-37E0-40B7-9675-4F6EF1641DE8 - e985f76c5d31cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "00919138-37E0-40B7-9675-4F6EF1641DE8 - e985f76c5d31ce6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "1224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B935935E-7DB7-440B-94C5-FA022CAB0075"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "findMusicById(_:title:artist:imageUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B408F82F-3CCC-4A33-B394-35C1AE688A65"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B408F82F-3CCC-4A33-B394-35C1AE688A65 - e985f76c5d31c1a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "B408F82F-3CCC-4A33-B394-35C1AE688A65 - e985f76c5d31c1a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79F4A6E5-5D3F-4136-B358-F188B280AE46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79F4A6E5-5D3F-4136-B358-F188B280AE46 - e985f76c5d31cdc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "79F4A6E5-5D3F-4136-B358-F188B280AE46 - e985f76c5d31c1cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A79503D-F232-4369-A4B4-848AF96B33D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "saveMusic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A79503D-F232-4369-A4B4-848AF96B33D9 - e985f76c5d31c0c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "0A79503D-F232-4369-A4B4-848AF96B33D9 - e985f76c5d31c0c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.SearchController.saveMusic(MusicMaxx.SavedMusicModel) -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/SearchController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "230FA887-A350-4B8A-9B69-377CE4E91706"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/SearchController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "findMusicById(_:title:artist:imageUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FFDCF69-2792-44DA-86DE-887A44D0B838"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicMaxx/MediaController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getAllSavedMusic()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1FFDCF69-2792-44DA-86DE-887A44D0B838 - e7803435a9cd2b3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.MediaController.getAllSavedMusic() -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/MediaController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "1FFDCF69-2792-44DA-86DE-887A44D0B838 - e7803435a9cd2b3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicMaxx.MediaController.getAllSavedMusic() -&gt; ()"
+                  moduleName = "MusicMaxx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2009/Desktop/MusicMaxx/MusicMaxx/MediaController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
